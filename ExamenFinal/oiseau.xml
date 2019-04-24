@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root>
+	<Oiseau>
+		<Nom>Pluvier Kildir</Nom>
+		<Latin>Charadrius Vociferus</Latin>
+		<Anglais>Kildeer</Anglais>
+		<Taille unite="cm">25</Taille>
+		<Alimentation>
+			<Aliment>Insectes</Aliment>
+		</Alimentation>
+		<Oeufs>3..4</Oeufs>
+		<Habitat>
+			<Zone>Terrains dégagés</Zone>
+			<Zone>Milieux suburbains</Zone>
+			<Zone>Milieux ruraux</Zone>
+		</Habitat>
+		<Protection>
+			<Releves>
+				<Releve>
+					<Titre region="Est">BBS</Titre>
+					<Etat>Augmentation mineure</Etat>
+				</Releve>
+				<Releve>
+					<Titre region="Centre">BBS</Titre>
+					<Etat>Diminution mineure</Etat>
+				</Releve>
+				<Releve>
+					<Titre>CBC</Titre>
+					<Etat>Stable</Etat>
+				</Releve>
+			</Releves>
+		</Protection>
+	</Oiseau>
+</Root>
